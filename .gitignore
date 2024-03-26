@@ -1,0 +1,6 @@
+# Ignore .env files
+.env
+
+# Ignore test file
+commonJsSocketController.js
+commonJsServer.js
